@@ -1,0 +1,9 @@
+*.pptx
+*.xlsx
+*.docx
+*.exe
+*.o
+*.dev
+*.layout
+Makefile.win
+remove_all_files.bat

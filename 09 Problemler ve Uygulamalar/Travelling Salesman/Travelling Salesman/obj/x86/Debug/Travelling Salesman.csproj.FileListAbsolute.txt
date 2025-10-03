@@ -1,0 +1,43 @@
+D:\Desktop\VeriYapıları\09 Problem Çözümleri\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.exe
+D:\Desktop\VeriYapıları\09 Problem Çözümleri\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.pdb
+D:\Desktop\VeriYapıları\09 Problem Çözümleri\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling_Salesman.FormMain.resources
+D:\Desktop\VeriYapıları\09 Problem Çözümleri\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling_Salesman.Properties.Resources.resources
+D:\Desktop\VeriYapıları\09 Problem Çözümleri\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csproj.GenerateResource.Cache
+D:\Desktop\VeriYapıları\09 Problem Çözümleri\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe
+D:\Desktop\VeriYapıları\09 Problem Çözümleri\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.pdb
+C:\Users\bilgisayar.lab53\Desktop\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe
+C:\Users\bilgisayar.lab53\Desktop\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.pdb
+C:\Users\bilgisayar.lab53\Desktop\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.exe
+C:\Users\bilgisayar.lab53\Desktop\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.pdb
+C:\Users\bilgisayar.lab53\Desktop\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling_Salesman.FormMain.resources
+C:\Users\bilgisayar.lab53\Desktop\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling_Salesman.Properties.Resources.resources
+C:\Users\bilgisayar.lab53\Desktop\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csproj.GenerateResource.Cache
+C:\Users\ozanaki\Desktop\VeriYapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe
+C:\Users\ozanaki\Desktop\VeriYapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.pdb
+C:\Users\ozanaki\Desktop\VeriYapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.exe
+C:\Users\ozanaki\Desktop\VeriYapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.pdb
+C:\Users\ozanaki\Desktop\VeriYapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csprojResolveAssemblyReference.cache
+C:\Users\ozanaki\Desktop\VeriYapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling_Salesman.FormMain.resources
+C:\Users\ozanaki\Desktop\VeriYapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling_Salesman.Properties.Resources.resources
+C:\Users\ozanaki\Desktop\VeriYapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csproj.GenerateResource.Cache
+D:\Documents\Dersler\KYCUBYO Veri Yapıları 2014-2015\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe
+D:\Documents\Dersler\KYCUBYO Veri Yapıları 2014-2015\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.pdb
+D:\Documents\Dersler\KYCUBYO Veri Yapıları 2014-2015\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.exe
+D:\Documents\Dersler\KYCUBYO Veri Yapıları 2014-2015\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.pdb
+D:\Documents\Dersler\KYCUBYO Veri Yapıları 2014-2015\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csprojResolveAssemblyReference.cache
+D:\Documents\Dersler\KYCUBYO Veri Yapıları 2014-2015\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling_Salesman.FormMain.resources
+D:\Documents\Dersler\KYCUBYO Veri Yapıları 2014-2015\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling_Salesman.Properties.Resources.resources
+D:\Documents\Dersler\KYCUBYO Veri Yapıları 2014-2015\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csproj.GenerateResource.Cache
+D:\Akademik\Dersler\KYCUBYO Veri Yapıları\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe
+D:\Akademik\Dersler\KYCUBYO Veri Yapıları\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.pdb
+C:\Users\Ozan\Code\Education\C-Veri-Yapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.exe.config
+C:\Users\Ozan\Code\Education\C-Veri-Yapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.exe
+C:\Users\Ozan\Code\Education\C-Veri-Yapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\bin\Debug\Travelling Salesman.pdb
+C:\Users\Ozan\Code\Education\C-Veri-Yapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csproj.AssemblyReference.cache
+C:\Users\Ozan\Code\Education\C-Veri-Yapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling_Salesman.FormMain.resources
+C:\Users\Ozan\Code\Education\C-Veri-Yapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling_Salesman.Properties.Resources.resources
+C:\Users\Ozan\Code\Education\C-Veri-Yapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csproj.GenerateResource.cache
+C:\Users\Ozan\Code\Education\C-Veri-Yapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\Code\Education\C-Veri-Yapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe
+C:\Users\Ozan\Code\Education\C-Veri-Yapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.pdb
+C:\Users\Ozan\Code\Education\C-Veri-Yapilari\09 Problemler ve Uygulamalar\Travelling Salesman\Travelling Salesman\obj\x86\Debug\Travelling Salesman.exe.config
